@@ -1,0 +1,4 @@
+'.html' filter=lfs diff=lfs merge=lfs -text
+*.html filter=lfs diff=lfs merge=lfs -text
+thecoast-general.html filter=lfs diff=lfs merge=lfs -text
+thecoast-mapping.html filter=lfs diff=lfs merge=lfs -text
